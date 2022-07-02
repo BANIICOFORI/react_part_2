@@ -4,8 +4,6 @@ const main =()=>{
     return(
 <div>
   <main id="main">
-
-
 <section id="about" class="about">
   <div class="container" data-aos="fade-up">
 
