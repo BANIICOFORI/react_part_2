@@ -2,9 +2,9 @@ import React  from "react";
 
 const main =()=>{
     return(
-<div>
+
   <main id="main">
-<section id="about" class="about">
+ <section id="about" class="about">
   <div class="container" data-aos="fade-up">
 
     <div class="row justify-content-end">
@@ -680,7 +680,7 @@ const main =()=>{
 </section>
 
 </main>
- </div>
+
     );
 };
 export default main;
